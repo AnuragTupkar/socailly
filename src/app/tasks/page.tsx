@@ -6,7 +6,7 @@ const TasksPage = async() => {
 
     console.log("tasks:", tasks)
   return (
-    <div>TasksPage</div>
+    <div>TasksPages</div>
   )
 }
 
